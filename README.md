@@ -6,7 +6,7 @@ Aplicación para gestión de presupuestos y seguimiento de gastos desarrollada c
 [![Context API](https://img.shields.io/badge/Context_API-State_Management-blue)](https://react.dev/reference/react/useContext)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
-![Demo](https://via.placeholder.com/800x400.png?text=Demo+Preview) <!-- Reemplaza con tu GIF/video o capturas -->
+![Demo]([https://via.placeholder.com/800x400.png?text=Demo+Preview](https://vermillion-malabi-60503e.netlify.app/)) <!-- Reemplaza con tu GIF/video o capturas -->
 
 ## Características ✨
 
@@ -26,4 +26,4 @@ Aplicación para gestión de presupuestos y seguimiento de gastos desarrollada c
 - 📅 [React Calendar](https://github.com/wojtekmaj/react-calendar)
 - 📊 [React Circular Progressbar](https://github.com/kevinsqi/react-circular-progressbar)
 - 🪟 [Headless UI](https://headlessui.com/) (Modal)
-- 💅 Styled Components o CSS (ajustar según tu implementación)
+- 💅 Tailwind Css
