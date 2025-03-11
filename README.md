@@ -6,8 +6,6 @@ Aplicación para gestión de presupuestos y seguimiento de gastos desarrollada c
 [![Context API](https://img.shields.io/badge/Context_API-State_Management-blue)](https://react.dev/reference/react/useContext)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
-![Demo]([https://via.placeholder.com/800x400.png?text=Demo+Preview](https://vermillion-malabi-60503e.netlify.app/)) <!-- Reemplaza con tu GIF/video o capturas -->
-
 ## Características ✨
 
 - 🤑 Creación y gestión de presupuestos
